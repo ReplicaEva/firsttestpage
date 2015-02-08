@@ -1,0 +1,37 @@
+#right
+{
+  float: right;
+  color: blue;
+  width: 50%;
+}
+
+table
+{
+  border: 3px solid blue;
+  background-color: gray;
+  height:330px;
+  width:330px;
+  
+}
+
+td,tr
+{
+  border: 1px solid white;
+}
+img 
+{
+  height:330px;
+  width:330px;
+}
+
+.impact
+{
+  font-family: Impact;
+  font-size: 20px;
+  
+}
+
+h1
+{
+  text-align: center;
+}
